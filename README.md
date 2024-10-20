@@ -9,7 +9,8 @@ LeadEmail Pro for services company using groq, langchain and streamlit. It allow
 ![Screenshot 2024-10-20 214734](https://github.com/user-attachments/assets/ef271ecb-420a-423e-bcd4-20249dc384f2)
 
 ## Architecture Diagram
-![img.png](imgs/architecture.png)
+
+![Screenshot 2024-10-20 220238](https://github.com/user-attachments/assets/482a2152-327b-4a57-993b-8bc1f5fb4b90)
 
 ## Set-up
 1. To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside `app/.env` update the value of `GROQ_API_KEY` with the API_KEY you created. 
@@ -26,7 +27,3 @@ LeadEmail Pro for services company using groq, langchain and streamlit. It allow
    ```
    
 
-Copyright (C) Codebasics Inc. All rights reserved.
-
-**Additional Terms:**
-This software is licensed under the MIT License. However, commercial use of this software is strictly prohibited without prior written permission from the author. Attribution must be given in all copies or substantial portions of the software.
